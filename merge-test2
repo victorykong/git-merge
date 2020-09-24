@@ -1,1 +1,4 @@
 这句话跟随 merge-test merge 到 master 再 revert
+
+
+增加新的改动，但是merge-test 文件不增加，看是否可以被master merge到，该文件 merge-test2 肯定是可以的
